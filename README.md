@@ -46,7 +46,9 @@ Main objectives:
 ## 🧮 Analysis Logic (BigQuery SQL)
 
 Step 1: Clean and categorize education fields (using LOWER() syntax)
+
 Step 2: Count and calculate proportions per company 
+
 Step 3: Compute diversity score per company
 
 ---
