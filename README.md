@@ -66,7 +66,7 @@ Output: NBDI2025_casestudy_interview.csv.
 
 ## 📈 Results and Key Insights 
 
-![Screenshot_Bigquery](./myphoto.png)
+![Results](./Screenshot_Bigquery.png)
 
 Saab AB shows the highest educational diversity (Diversity Score ≈ 0.82) — 7 distinct education categories among 14 executives.
 
