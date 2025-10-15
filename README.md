@@ -131,6 +131,6 @@ However, several companies show exceptional interdisciplinary leadership.
 ├── solution_bigquery.sql
 ├── Stockholm_Large_NBDI2025.xlsx
 ├── Stockholm_Large_NBDI2025.csv
-├── education_diversity_by_company.csv
+├── NBDI2025_casestudy_interview.csv
 └── README.md
 ```
