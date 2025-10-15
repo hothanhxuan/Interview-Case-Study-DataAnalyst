@@ -1,7 +1,5 @@
 # Interview-Case-Study-DataAnalyst
 
-# NBDI 2026 – Data Analyst Case Study
-
 ## 🏢 Company
 **Nordic Business Diversity Index (NBDI)**  
 Case assignment for **Data Analyst Trainee 2026** position.
