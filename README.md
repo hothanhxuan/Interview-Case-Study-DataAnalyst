@@ -68,15 +68,61 @@ Output: NBDI2025_casestudy_interview.csv.
 
 ![Results](./Screenshot_Bigquery.png)
 
-Saab AB shows the highest educational diversity (Diversity Score ≈ 0.82) — 7 distinct education categories among 14 executives.
+# Key Insights 
+   🧭 1. Overall Trends
 
-Wallenstam AB, BioArctic, and Atrium Ljungberg also rank high (≈ 0.78), reflecting balanced mixes of Business, Engineering, and Science backgrounds.
+| Metric | Key Observation |
+|--------|----------------|
+| **Average diversity score** | Around **0.43–0.45**, indicating that most executive teams are dominated by one educational field. |
+| **Typical share of top field** | Ranges between **0.5 and 0.7**, meaning one degree field represents half to two-thirds of the leadership team. |
+| **Unique education fields per company** | Typically **3–4**, showing moderate interdisciplinarity. |
+| **Team size vs. diversity** | Larger executive teams do **not necessarily** have higher educational diversity — e.g., *Ericsson (17 execs, low diversity 0.29)* vs. *Saab AB (14 execs, high diversity 0.79)*. |
 
-Embracer Group and Alleima exhibit moderate diversity (≈ 0.73).
+🧩 **Conclusion:**  
+The Nordic corporate landscape remains heavily shaped by **business and engineering backgrounds**, with limited academic heterogeneity overall.  
+However, several companies show exceptional interdisciplinary leadership.
 
-Companies dominated by Business-only profiles scored lower (< 0.5).
+---
 
-Organizations with executives from multiple disciplines tend to have more balanced perspectives and higher diversity scores.
+   🥇 2. Companies with the Highest Educational Diversity
+
+| Category | Criteria | Example Companies | Key Takeaway |
+|----------|-----------|------------------|--------------|
+| **High diversity (≥ 0.7)** | Multiple degree fields, no single field > ⅓ of team | **Saab AB (0.79)**, **BioArctic (0.67)**, **Wallenstam**, **TietoEVRY**, **Ratos** | Saab AB leads with 14 executives across 7 unique fields — its leadership reflects a **strong mix of technical, business, science, and legal backgrounds.** |
+| **Medium diversity (0.4–0.6)** | One or two dominant academic fields | **Sandvik, Volvo Group, SKF, SCA, AFRY, Arjo** | Engineering-heavy firms show moderate diversity thanks to additions from economics or law. |
+| **Low diversity (≤ 0.3)** | Almost all executives from one field | **Intrum (0.26)**, **Swedbank (0.2)**, **Kinnevik (0.14)**, **AAK (0.13)** | Financial and FMCG companies tend to have **very homogeneous educational profiles**, typically within business or finance. |
+
+---
+
+   ⚠️ 3. Companies with Zero Educational Diversity (Score = 0)
+
+| Company Examples | Description |
+|------------------|--------------|
+| **Securitas, Handelsbanken, Sweco, Tele2, Addnode, Biotage, Fenix Outdoor, H&M, etc.** | All executives share the same educational background. |
+| **Implications:** |
+| - Indicates **over-specialization** within leadership. |
+| - May limit **strategic adaptability** and **cross-disciplinary innovation** — key factors for ESG and digital transformation. |
+
+---
+
+   🧠 4. Cross-Sector Insights
+
+- **Industrial / Engineering firms** → Moderate diversity (0.4–0.6).  
+  → Blend of engineering, economics, and management backgrounds.  
+- **Finance & Banking** → Low diversity (0.2–0.3).  
+  → Heavily dominated by business/economics degrees.  
+- **Bio/MedTech** → Higher diversity than average.  
+  → Mix of medicine, science, and business education (e.g., *BioArctic*, *Sobi*, *Camurus*).
+
+---
+
+   📊 5. Summary by Diversity Level
+
+| Level | Diversity Score | Approx. # of Companies | General Characteristics |
+|--------|------------------|------------------------|--------------------------|
+| **High** | ≥ 0.7 | ~10 | Strong interdisciplinary mix |
+| **Medium** | 0.4–0.7 | ~50 | Balanced but still field-heavy |
+| **Low** | < 0.4 | ~40 | Single-discipline leadership |
 
 ---
 
