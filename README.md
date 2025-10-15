@@ -64,7 +64,8 @@ Output: NBDI2025_casestudy_interview.csv.
 
 ---
 
-## 📈 Key Insights
+## 📈 Results and Key Insights 
+
 Saab AB shows the highest educational diversity (Diversity Score ≈ 0.82) — 7 distinct education categories among 14 executives.
 
 Wallenstam AB, BioArctic, and Atrium Ljungberg also rank high (≈ 0.78), reflecting balanced mixes of Business, Engineering, and Science backgrounds.
