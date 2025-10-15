@@ -68,7 +68,7 @@ Output: NBDI2025_casestudy_interview.csv.
 
 ![Results](./Screenshot_Bigquery.png)
 
-# Key Insights 
+### Key Insights 
    🧭 1. Overall Trends
 
 | Metric | Key Observation |
