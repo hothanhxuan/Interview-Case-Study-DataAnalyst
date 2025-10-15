@@ -82,5 +82,5 @@ Organizations with executives from multiple disciplines tend to have more balanc
 ├── solution_bigquery.sql
 ├── Stockholm_Large_NBDI2025.xlsx
 ├── Stockholm_Large_NBDI2025.csv
-├── NBDI2025_casestudy_interview.csv
+├── education_diversity_by_company.csv
 └── README.md
