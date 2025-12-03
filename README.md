@@ -1,8 +1,12 @@
 # Interview-Case-Study-DataAnalyst
 
 ## 🏢 Company
-**Nordic Business Diversity Index (NBDI)**  
-Case assignment for **Data Analyst Trainee 2026** position.
+
+![Image](https://github.com/user-attachments/assets/0c613663-91c3-4ced-b6c0-b94c77d7630d) 
+
+**Nordic Business Diversity Index (NBDI)** - is a team of professionals from leading sustainability consulting company Impaktly, the most extensive business diversity ranking in the Nordics. 
+
+This is a Case assignment for **Data Analyst Trainee 2026** position.
 
 ---
 
